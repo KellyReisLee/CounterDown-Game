@@ -1,4 +1,4 @@
-# Project Management React!
+# Counter Down Game!
 
 https://github.com/KellyReisLee/CounterDown-Game/assets/104033201/b64b3641-cea2-4869-962e-7767d80fb47c
 
